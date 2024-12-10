@@ -1,0 +1,11 @@
+{
+    "build": { "dockerfile": "Dockerfile"},
+
+    "name": "AOC2024",
+    
+    "customizations": {
+        "vscode": {
+          "extensions": ["donjayamanne.python-extension-pack", "ms-toolsai.jupyter"]
+        }
+    }
+}
